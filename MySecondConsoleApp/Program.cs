@@ -10,6 +10,7 @@ namespace MySecondConsoleApp
     {
         static void Main(string[] args)
         {
+            //changes
         }
     }
 }
