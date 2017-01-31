@@ -9,5 +9,6 @@ namespace MySecondConsoleApp
     class Engine
     {
         public string Type { get; set; }
+        public int EngineCapacityInCubicCentimeters { get; set; }
     }
 }
