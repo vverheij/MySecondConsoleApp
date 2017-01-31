@@ -11,6 +11,11 @@ namespace MySecondConsoleApp
         static void Main(string[] args)
         {
             //changes
+            //more changes
+            string s1 = "Rocks";
+            Console.WriteLine($"TFS with git {s1}!",s1);
+            Console.WriteLine("Feature 1 changes");
+            Console.ReadLine();
         }
     }
 }
